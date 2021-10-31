@@ -85,13 +85,13 @@ blockquote:after, q:after{content:' �'; font-size:26px; line-height:0;}
 
 /* ------Slider-----*/
 
-#container #slider{float:left; display:block; width:400px;}
+#container #slider{float:left; display:block; width:340px;}
 #container #slider a{display:block; padding:9px; border:1px solid #DEDEDE;}
 #container #slider a:hover{border-color:rgb(24, 69, 59);}
 
 /* ------Main Content-----*/
 
-#container #content{float:right; width:500px; line-height:1.6em; }
+#container #content{float:right; width:560px; line-height:1.6em; }
 
 #container #content #latest{}
 #container #content #latest ul{margin:0; padding:0; list-style:none;}
@@ -106,7 +106,7 @@ blockquote:after, q:after{content:' �'; font-size:26px; line-height:0;}
 
 /* ------Right Column-----*/
 
-#container #right_column{float: right; width:500px;}
+#container #right_column{float: right; width:560px;}
 #container #right_column h2.title{margin-bottom:15px; padding-bottom:15px; border-bottom:1px solid #DEDEDE;}
 
 #container #right_column nav{display:block; width:100%; margin-bottom:30px;}
